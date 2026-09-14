@@ -1,2 +1,2 @@
 # Optimizing_CAR_M_Targets_via_Bioinformatics
-De novo designed CAR-macrophages stimulate comprehensive tumoricidal immunity in multiple malignancies
+Clinically anchored machine learning prioritizes CAR-macrophages with broad antitumor activity across malignancies
