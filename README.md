@@ -2,7 +2,7 @@
 
 Please run the scripts in the following order:
 
-**a → b → c → d → e**
+**a → b → c → d → e → 1 → 2 → 3**
 
 Before running each step, please download the required datasets. The specific input files and corresponding data requirements are described in each script.
 
